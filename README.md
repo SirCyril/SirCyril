@@ -1,4 +1,4 @@
-### I am Finance professional who stumbled on Data Science during COVID, been hooked ever since. 
+### I am a Finance professional who stumbled on Data Science during COVID, been hooked ever since. 
 Aspiring TechBro!
 
 <!--
